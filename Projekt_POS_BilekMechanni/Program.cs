@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Projekt_POS_BilekMechanni
+namespace Projekt_POS_Angebot_BilekMechanni
 {
     class Program
     {
