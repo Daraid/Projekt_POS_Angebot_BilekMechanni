@@ -10,6 +10,7 @@ namespace Projekt_POS_Angebot_BilekMechanni
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
         }
     }
 }
